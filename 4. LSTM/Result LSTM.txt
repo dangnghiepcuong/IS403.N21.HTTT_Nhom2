@@ -1,0 +1,25 @@
+1. INTC 
+- 7:2:1 :
+Validation RMSE: 29.65971751588049
+Testing RMSE: 44.181890724648184
+- 6:2:2 :
+Validation RMSE: 30.362023086081773
+Testing RMSE: 54.01895467344495
+- 6:3:1 :
++ RMSE:
+
+2. AMD:
+- 7:2:1 :
++ RMSE:
+- 6:2:2 :
++ RMSE:
+- 6:3:1 :
++ RMSE:
+
+3. NVDA:
+- 7:2:1 :
++ RMSE:
+- 6:2:2 :
++ RMSE:
+- 6:3:1 :
++ RMSE:
