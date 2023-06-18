@@ -15,14 +15,6 @@ AMD Historical Data:
         Validation MSE: 2.9729473121554286
         Validation MAE: 2.1053340517062997
 
-    - 6:2:2
-        Testing RMSE: 3.3161389429829518
-        Testing MSE: 10.996777489168087
-        Testing MAE: 2.391577231455401
-        Validation RMSE: 3.3942192124927963
-        Validation MSE: 3.3942192124927963
-        Validation MAE: 2.5661304611604066
-
 INTC Historical Data:
     - 7:2:1
         Testing RMSE: 0.9863105542494897
@@ -40,14 +32,6 @@ INTC Historical Data:
         Validation MSE: 0.5718834490132596
         Validation MAE: 0.5913811603439122
 
-    - 6:2:2
-        Testing RMSE: 1.1348005892190827
-        Testing MSE: 1.2877723772919771
-        Testing MAE: 0.8018308955502694
-        Validation RMSE: 0.8958768648778513
-        Validation MSE: 0.8025953570233679
-        Validation MAE: 0.6909845863154669
-
 NVDA Historical Data:
     - 7:2:1
         Testing RMSE: 8.321539196920213
@@ -64,11 +48,3 @@ NVDA Historical Data:
         Validation RMSE: 9.145140492201909
         Validation MSE: 9.145140492201909
         Validation MAE: 5.9182775665379
-
-    - 6:2:2
-        Testing RMSE: 6.452006967173041
-        Testing MSE: 41.62839390444947
-        Testing MAE: 4.48618997845081
-        Validation RMSE: 8.762148533647487
-        Validation MSE: 8.762148533647487
-        Validation MAE: 6.341162253545557
