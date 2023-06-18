@@ -1,0 +1,74 @@
+AMD Historical Data:
+    - 7:2:1
+        Testing RMSE: 27.402134975266037
+        Testing MSE: 750.8770012026981
+        Testing MAE: 21.8888929445037
+        Validation RMSE: 15.83228409439459
+        Validation MSE: 15.83228409439459
+        Validation MAE: 13.48636372980964
+
+    - 6:3:1
+        Testing RMSE: 22.23881291020305
+        Testing MSE: 494.5647996550137
+        Testing MAE: 16.711845513420805
+        Validation RMSE: 11.634156148932723
+        Validation MSE: 11.634156148932723
+        Validation MAE: 9.675188369681626
+
+    - 6:2:2
+        Testing RMSE: 23.817910705067376
+        Testing MSE: 567.2928703545632
+        Testing MAE: 17.23363811746354
+        Validation RMSE: 19.331362674008318
+        Validation MSE: 19.331362674008318
+        Validation MAE: 15.986172971539581
+
+INTC Historical Data:
+    - 7:2:1
+        Testing RMSE: 11.960249953118666
+        Testing MSE: 143.04757894107505
+        Testing MAE: 9.090757246136198
+        Validation RMSE: 26.96644485219628
+        Validation MSE: 26.96644485219628
+        Validation MAE: 26.897259476966127
+
+    - 6:3:1
+        Testing RMSE: 9.87650423297916
+        Testing MSE: 97.54533586405528
+        Testing MAE: 8.350471522119564
+        Validation RMSE: 16.554602412430018
+        Validation MSE: 16.554602412430018
+        Validation MAE: 16.44168539904945
+
+    - 6:2:2
+        Testing RMSE: 10.66421935101033
+        Testing MSE: 113.72557436646316
+        Testing MAE: 9.392133532118898
+        Validation RMSE: 13.036554677825528
+        Validation MSE: 13.036554677825528
+        Validation MAE: 11.370779657855795
+
+NVDA Historical Data:
+    - 7:2:1
+        Testing RMSE: 443.860747091592
+        Testing MSE: 197012.36280870618
+        Testing MAE: 365.01205370884384
+        Validation RMSE: 190.18493285025403
+        Validation MSE: 190.18493285025403
+        Validation MAE: 181.65953791656455
+
+    - 6:3:1
+        Testing RMSE: 64.27178234440036
+        Testing MSE: 4130.862005725974
+        Testing MAE: 45.566018182479745
+        Validation RMSE: 90.1941060912159
+        Validation MSE: 90.1941060912159
+        Validation MAE: 71.92337298056033
+
+    - 6:2:2
+        Testing RMSE: 70.70229215434524
+        Testing MSE: 4998.814115878389
+        Testing MAE: 50.02877787794289
+        Validation RMSE: 73.49945635240385
+        Validation MSE: 73.49945635240385
+        Validation MAE: 57.54740861519969
