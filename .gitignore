@@ -1,6 +1,7 @@
 # Ignore IPython Notebook files containing "testing" or "fixed" in their names
 *testing*.ipynb
 *fixed*.ipynb
+*bug*.ipynb
 
 # Created by https://www.toptal.com/developers/gitignore/api/windows,linux,python,jupyternotebooks,visualstudiocode,visualstudio
 # Edit at https://www.toptal.com/developers/gitignore?templates=windows,linux,python,jupyternotebooks,visualstudiocode,visualstudio
